@@ -1,0 +1,17 @@
+
+
+<html xmlns:x="urn:schemas-microsoft-com:office:excel">
+<head>
+<style type="text/css"> 
+.text_center {text-align:center;} 
+.text_right {text-align:right;} 
+.text_left {text-align:left;} 
+td { mso-number-format:\@ }
+.long-text { mso-number-format:General;  }
+</style> 
+</head>
+<meta http-equiv="Content-Type" content="application/vnd.ms-excel;charset=UTF-8">
+<body>
+<table border='1' cellpadding='0' cellspacing='0'><tr><th  rowspan='2'>Cargo Closing Time</th><th  rowspan='2'>Loading Port</th><th  rowspan='2'>Departure Date</th><th  rowspan='2'>Discharging Port</th><th  rowspan='2'>Arrival</th><th  rowspan='2'>Lane</th><th  rowspan='2'>Vessel</th><th colspan='2' >T/Time(Day)</th></tr><tr><th  >Ocean</th><th  >Total</th></tr><tr><td class="text_center" >2020-01-30 (Thu)</td><td class="text_center" >SHANGHAI</td><td class="text_center" >2020-01-31 (Fri)</td><td class="text_center" >HOCHIMINH CITY</td><td class="text_center" >2020-02-05 (Wed)</td><td class="text_center" >VTX</td><td class="text_center" >STARSHIP PEGASUS 2002W</td><td class="text_center" >4</td><td class="text_center" >5</td></tr><tr><td class="text_center" >2020-02-01 (Sat)</td><td class="text_center" >SHANGHAI</td><td class="text_center" >2020-02-02 (Sun)</td><td class="text_center" >HOCHIMINH CITY</td><td class="text_center" >2020-02-06 (Thu)</td><td class="text_center" >VTX</td><td class="text_center" >SM JAKARTA 2002W</td><td class="text_center" >4</td><td class="text_center" >5</td></tr><tr><td class="text_center" >2020-02-06 (Thu)</td><td class="text_center" >SHANGHAI</td><td class="text_center" >2020-02-08 (Sat)</td><td class="text_center" >HOCHIMINH CITY</td><td class="text_center" >2020-02-13 (Thu)</td><td class="text_center" >VTX</td><td class="text_center" >NORDOCELOT 2002W</td><td class="text_center" >4</td><td class="text_center" >5</td></tr><tr><td class="text_center" >2020-02-17 (Mon)</td><td class="text_center" >SHANGHAI</td><td class="text_center" >2020-02-19 (Wed)</td><td class="text_center" >HOCHIMINH CITY</td><td class="text_center" >2020-02-23 (Sun)</td><td class="text_center" >VTX</td><td class="text_center" >STARSHIP PEGASUS 2003W</td><td class="text_center" >4</td><td class="text_center" >5</td></tr><tr><td class="text_center" >2020-02-21 (Fri)</td><td class="text_center" >SHANGHAI</td><td class="text_center" >2020-02-22 (Sat)</td><td class="text_center" >HOCHIMINH CITY</td><td class="text_center" >2020-02-27 (Thu)</td><td class="text_center" >VTX</td><td class="text_center" >SM JAKARTA 2003W</td><td class="text_center" >5</td><td class="text_center" >6</td></tr><tr><td class="text_center" >2020-02-28 (Fri)</td><td class="text_center" >SHANGHAI</td><td class="text_center" >2020-02-29 (Sat)</td><td class="text_center" >HOCHIMINH CITY</td><td class="text_center" >2020-03-05 (Thu)</td><td class="text_center" >VTX</td><td class="text_center" >NORDOCELOT 2003W</td><td class="text_center" >4</td><td class="text_center" >5</td></tr></table>
+</body>
+</html>

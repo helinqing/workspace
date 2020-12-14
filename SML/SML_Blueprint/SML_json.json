@@ -1,0 +1,12 @@
+﻿{
+    "code":"Lane",
+    "data_from":"2",
+    "Cargo Closing Time": "Cargo Closing Time",
+    "etd":"Departure Date",
+    "eta":"Arrival",
+    "schedule":"Departure Date",
+    "scid":"SML",
+    "ship_name":"Vessel",
+    "start_port_id":"Loading Port",
+    "voyage":"Vessel"
+}
